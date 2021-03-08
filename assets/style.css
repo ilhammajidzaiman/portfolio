@@ -1,0 +1,18 @@
+section,
+footer {
+  padding-top: 5rem;
+}
+.bg-1 {
+  background-color: #e6e9ec;
+}
+.bg-navy {
+  background-color: #001f3f;
+}
+.jumbotron {
+  height: 600px;
+  padding-top: 6rem;
+  background-color: #001f3f;
+  background-image: url("../assets/banner.svg");
+  background-position: bottom center;
+  background-repeat: no-repeat;
+}
